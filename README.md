@@ -14,7 +14,9 @@
 
 </hr>
 
-
+<h3 align="center">Spoken languages</h3>
+  
+<h4 align="center">Spanish (NATIVE) | English(70%) |  Japnese (Still in learning)</h4>
 
 <p align="center">
   
