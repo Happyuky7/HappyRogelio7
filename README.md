@@ -1,6 +1,6 @@
 <h2 align="center">Hi, Welcome :D</h2>
 
-<hr></hr>
+</hr>
 
 <h3 align="center">Social networks</h3>
 
@@ -12,11 +12,9 @@
 | <a href="https://twitter.com/HappyRogelio7" target="_blank">`twiiter.com/HappyRogelio7`</a>  | <a href="https://www.youtube.com/channel/UCm13AIEM5Rn7ughwv1N3DnA?view_as=subscriber" target="_blank">`youtube.com`</a>  | <a href="https://discord.gg/3EebYUyeUX" target="_blank">`discord.gg/3EebYUyeUX`</a> | <a href="https://www.twitch.tv/happyrogelio7" target="_blank">`twitch.tv/happyrogelio7`</a> | <a href="https://www.instagram.com/happyrogelio7" target="_blank">`instagram.com/happyrogelio7`</a> |
 
 
-<hr></hr>
+</hr>
 
-<h3 align="center">Spoken languages</h3>
-  
-<h3 align="center">Spanish (NATIVE)   |  English (70%)   |  Japanese (Still in learning)</h3>
+
 
 <p align="center">
   
@@ -24,7 +22,7 @@
 
 </p>
 
-<hr></hr>
+</hr>
 
 <h3 align="center">Programming Skills</h3>
 <p align="center">
