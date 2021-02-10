@@ -2761,6 +2761,8 @@ Available if multiple partners are allowed on the server:
 %namemcapi_ip%
 %namemcapi_player%
 ```
+You can find more information on the [Wiki!](https://github.com/HappyRogelio7/NameMC-API-ServersMC/wiki)
+
 ----
 
 - ### **[Nicknamer](https://www.spigotmc.org/resources/5341/)**
