@@ -189,7 +189,7 @@ If the command itself isn't there and `NO DOWNLOAD COMMAND` instead is shown, th
 
 ## **N**
 - **[Nameless Plugin](#nameless-plugin)**
-- **[NameMC-API-ServersMC Plugin](#namemcapiserversmc)**
+- **[NameMC-API-ServersMC Plugin](#namemc-api-serversmc)**
 - **[Nicknamer](#nicknamer)**
 - **[NickReloaded](#nickreloaded)**
 - **[Nicky](#nicky)**
