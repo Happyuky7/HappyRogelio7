@@ -4,11 +4,14 @@
 
 <h3 align="center">Social networks</h3>
 
-| <a href="https://twitter.com/HappyRogelio7" target="_blank">**Twitter**</a> | <a href="https://www.youtube.com/channel/UCm13AIEM5Rn7ughwv1N3DnA?view_as=subscriber" target="_blank">**Youtube**</a> | <a href="https://discord.gg/3EebYUyeUX" target="_blank">**Discord**</a> | <a href="https://www.twitch.tv/happyrogelio7" target="_blank">**Twitch**</a> | <a href="https://www.instagram.com/happyrogelio7" target="_blank">**Instagram**</a> |
-| :---: | :---: | :---: |  :---: | :---: | 
-| <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Twitter.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Youtube.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Discord.png' height='100px'>  | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Twitch.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Instagram.png' height='100px'> |
-| <a href="https://twitter.com/HappyRogelio7" target="_blank">`twiiter.com/HappyRogelio7`</a>  | <a href="https://www.youtube.com/channel/UCm13AIEM5Rn7ughwv1N3DnA?view_as=subscriber" target="_blank">`Youtube`</a>  | <a href="https://discord.gg/3EebYUyeUX" target="_blank">`discord.gg/3EebYUyeUX`</a> | <a href="https://www.twitch.tv/happyrogelio7" target="_blank">`twitch.tv/happyrogelio7`</a> | <a href="https://www.instagram.com/happyrogelio7" target="_blank">`instagram.com/happyrogelio7`</a> |
+<div align="center">
 
+| <a href="https://twitter.com/HappyRogelio7" target="_blank">**Twitter**</a> | <a href="https://www.youtube.com/c/HappyRogelio7" target="_blank">**Youtube**</a> | <a href="https://discord.gg/3EebYUyeUX" target="_blank">**Discord**</a> | <a href="https://www.twitch.tv/happyrogelio7" target="_blank">**Twitch**</a> | <a href="https://www.instagram.com/happyrogelio7" target="_blank">**Instagram**</a> | <a href="https://happyrogelio7.github.io" target="_blank">**WEB PAGE**</a> | 
+| :---: | :---: | :---: | :---: | :---: | :---: | 
+| <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Twitter.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Youtube.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Discord.png' height='100px'>  | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Twitch.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Instagram.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/webpage.png' height='100px'> |
+| <a href="https://twitter.com/HappyRogelio7" target="_blank">`Link Twitter`</a>  | <a href="https://www.youtube.com/c/HappyRogelio7" target="_blank">`Link Youtube`</a>  | <a href="https://discord.gg/3EebYUyeUX" target="_blank">`Link Discord`</a> | <a href="https://www.twitch.tv/happyrogelio7" target="_blank">`Link Twitch`</a> | <a href="https://www.instagram.com/happyrogelio7" target="_blank">`Link Instagram`</a> | <a href="https://happyrogelio7.github.io" target="_blank">`Link WEB PAGE`</a> |
+
+</div>
 
 </hr>
 
