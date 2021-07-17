@@ -22,7 +22,7 @@
 | <a href="https://github.com/Happy7-Team" target="_blank">**Happy7-Team**</a> | 
 | :---: | 
 | <img align='center' src='https://avatars.githubusercontent.com/u/87344448?s=400&u=4cd40326976aa40c91f58b2c8bf03e30ce546e38&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/87285212?s=200&v=4' height='100px'> | 
-| <a href="https://github.com/Happy7-Team" target="_blank">`Happy7-Team` </a><a href="https://twitter.com/Happy7-Team" target="_blank">`Twitter` </a><a href="https://Happy7-Team.github.io/" target="_blank">`Website`</a> | 
+| <a href="https://github.com/Happy7-Team" target="_blank">`Happy7-Team` </a><a href="https://twitter.com/Happy7Team" target="_blank">`Twitter` </a><a href="https://Happy7-Team.github.io/" target="_blank">`Website`</a> | 
 
 </div>
 
