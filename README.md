@@ -30,7 +30,7 @@
 
 <h3 align="center">Spoken languages</h3>
   
-<h4 align="center">Spanish (NATIVE) | English(70%) |  Japnese (Still in learning)</h4>
+<h4 align="center">Spanish (NATIVE) | English(50%) |  Japnese (Still in learning)</h4>
 
 <p align="center">
   
@@ -56,4 +56,7 @@
 
 
 [![HappyRogelio7's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=HappYRogelio7.readme.visitor-badge)](https://github.com/HappyRogelio7/)
+
+
+- Links to social networks and projects: https://happyrogelio7.github.io/customsociallinksweb/
 
