@@ -55,8 +55,9 @@
 [![HappyRogelio7's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyRogelio7&show_icons=true&theme=merko)](https://github.com/HappyRogelio7/)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyRogelio7&layout=compact&theme=tokyonight)](https://github.com/HappyRogelio7/)
 
 
-[![HappyRogelio7's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=HappYRogelio7.readme.visitor-badge)](https://github.com/HappyRogelio7/)
+[![HappyRogelio7's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=HappYRogelio7.readme.visitor-badge)](https://github.com/HappyRogelio7/) 
 
+ 
 
 - Links to social networks and projects: https://happyrogelio7.github.io/customsociallinksweb/
 
