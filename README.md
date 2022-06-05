@@ -30,9 +30,8 @@
 
 | <a href="https://github.com/KaoryStudiosDiscord" target="_blank">**Kaory Studios Discord**</a> | <a href="https://github.com/KaoryAnimation" target="_blank">**Kaory Animation**</a> |
 | :---: | :---: | 
-| <img align='center' src='https://avatars.githubusercontent.com/u/92584765?s=200&amp;v=4' height='100px'> | 
-| <a href="https://github.com/KaoryStudiosDiscord" target="_blank">`Kaory Studios Discord` </a><a href="https://twitter.com/KaoryStudios" target="_blank">`Twitter` </a><a href="https://kaorystudiosdiscord.github.io/" target="_blank">`Website`</a> | <img align='center' src='https://avatars.githubusercontent.com/u/92584765?s=200&amp;v=4' height='100px'> | 
-| <a href="https://github.com/KaoryAnimation" target="_blank">`Kaory Animation` </a><a href="https://twitter.com/KaoryAnimation" target="_blank">`Twitter` </a><a href="https://kaoryanimation.github.io/" target="_blank">`Website`</a> | 
+| <img align='center' src='https://avatars.githubusercontent.com/u/92584765?s=200&amp;v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/92584765?s=200&amp;v=4' height='100px'> | 
+| <a href="https://github.com/KaoryStudiosDiscord" target="_blank">`Kaory Studios Discord` </a><a href="https://twitter.com/KaoryStudios" target="_blank">`Twitter` </a><a href="https://kaorystudiosdiscord.github.io/" target="_blank">`Website`</a> |  <a href="https://github.com/KaoryAnimation" target="_blank">`Kaory Animation` </a><a href="https://twitter.com/KaoryAnimation" target="_blank">`Twitter` </a><a href="https://kaoryanimation.github.io/" target="_blank">`Website`</a> | 
 
 </div>
 
