@@ -26,6 +26,15 @@
 
 </div>
 
+<div align="center">
+
+| <a href="https://github.com/KaoryStudiosDiscord" target="_blank">**Kaory Studios Discord**</a> |
+| :---: | 
+| <img align='center' src='https://avatars.githubusercontent.com/u/92584765?s=200&amp;v=4' height='100px'> | 
+| <a href="https://github.com/KaoryStudiosDiscord" target="_blank">`Kaory Studios Discord` </a><a href="https://twitter.com/KaoryStudios" target="_blank">`Twitter` </a><a href="https://kaorystudiosdiscord.github.io/" target="_blank">`Website`</a> | 
+
+</div>
+
 </hr>
 
 <h3 align="center">Spoken languages</h3>
