@@ -6,10 +6,8 @@
 
 <div align="center">
 
-| <a href="https://twitter.com/HappyRogelio7" target="_blank">**Twitter**</a> | <a href="https://www.youtube.com/c/HappyRogelio7" target="_blank">**Youtube**</a> | <a href="https://discord.gg/3EebYUyeUX" target="_blank">**Discord**</a> | <a href="https://www.twitch.tv/happyrogelio7" target="_blank">**Twitch**</a> | <a href="https://www.instagram.com/happyrogelio7" target="_blank">**Instagram**</a> | <a href="https://happyrogelio7.github.io" target="_blank">**Website**</a> | 
-| :---: | :---: | :---: | :---: | :---: | :---: | 
 | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Twitter.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Youtube.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Discord.png' height='100px'>  | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Twitch.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/Instagram.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Socials%20Logos/webpage.png' height='100px'> |
-| <a href="https://twitter.com/HappyRogelio7" target="_blank">`Link Twitter`</a>  | <a href="https://www.youtube.com/c/HappyRogelio7" target="_blank">`Link Youtube`</a>  | <a href="https://discord.gg/3EebYUyeUX" target="_blank">`Link Discord`</a> | <a href="https://www.twitch.tv/happyrogelio7" target="_blank">`Link Twitch`</a> | <a href="https://www.instagram.com/happyrogelio7" target="_blank">`Link Instagram`</a> | <a href="https://happyrogelio7.github.io" target="_blank">`Link Website`</a> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
 
@@ -21,7 +19,7 @@
 
 | <a href="https://github.com/Happy7-Team" target="_blank">**Happy7-Team**</a> | <a href="https://github.com/KaoryNetwork" target="_blank">**Kaory Network**</a> | <a href="https://github.com/kaorystudiosmc" target="_blank">**Kaory Studios MC**</a> | <a href="https://github.com/KaoryStudios" target="_blank">**Kaory Studios**</a> | <a href="https://github.com/MugenAIBOT" target="_blank">**Mugen AI BOT**</a> |
 | :---: | :---: | :---: |  :---: | :---: | 
-| <img align='center' src='https://avatars.githubusercontent.com/u/87344448?s=400&u=4cd40326976aa40c91f58b2c8bf03e30ce546e38&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/104711285?s=400&u=c002964232f085b1f470d73b2163ebe047bb5c05&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/92584765?s=200&amp;v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/92584765?s=200&amp;v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/92584765?s=200&amp;v=4' height='100px'> | 
+| <img align='center' src='https://avatars.githubusercontent.com/u/87344448?s=400&u=4cd40326976aa40c91f58b2c8bf03e30ce546e38&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/104711285?s=400&u=c002964232f085b1f470d73b2163ebe047bb5c05&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/104711165?s=96&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/104710287?s=200&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/92584765?s=200&amp;v=4' height='100px'> | 
 | <a href="https://github.com/Happy7-Team" target="_blank">`Happy7-Team` </a><a href="https://twitter.com/Happy7Team" target="_blank">`Twitter` </a><a href="https://Happy7-Team.github.io/" target="_blank">`Website`</a> | <a href="https://github.com/KaoryNetwork" target="_blank">`Kaory Network` </a><a href="https://twitter.com/KaoryNetwork" target="_blank">`Twitter` </a><a href="https://kaorynetwork.github.io/" target="_blank">`Website`</a> | <a href="https://github.com/KaoryStudiosMC" target="_blank">`KaoryStudiosMC` </a><a href="https://twitter.com/KaoryStudiosMC" target="_blank">`Twitter` </a><a href="https://kaorysStudiosmc.github.io/" target="_blank">`Website`</a> |  <a href="https://github.com/KaoryStudios" target="_blank">`Kaory Studios` </a><a href="https://twitter.com/KaoryStudios" target="_blank">`Twitter` </a><a href="https://kaorystudios.xyz" target="_blank">`Website`</a> | <a href="https://github.com/MugenAIBOT" target="_blank">`Mugen AI BOT` </a><a href="https://twitter.com/MugenAIBOT" target="_blank">`Twitter` </a><a href="https://Mugenaibot.github.io/" target="_blank">`Website`</a> | 
 
 </div>
@@ -56,6 +54,14 @@
   <img src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Skills/javascript.jpg' height='100px'>
   <img src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Skills/nodejs.png' height='100px'>
   <img src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Skills/spigotorg-Bukkit.png' height='100px'>
+  <img src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png' height='100px'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/c/c6/Unity_Hub_Logo.png' height='100px'>
+  <img src='https://www.ujudebug.com/wp-content/uploads/2022/07/html-logo-transparent.png' height='100px'>
+  <img src='https://www.ujudebug.com/wp-content/uploads/2022/07/css-logo-transparent.png' height='100px'>
+  <img src='https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png' height='100px'>
+  <img src='https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png' height='100px'>
+  <img src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Skills/redis-cube-red_white-rgb.png' height='100px'>
+  <img src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Skills/blender_icon_1024x1024.png' height='100px'>
 
 </p>
 
