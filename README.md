@@ -24,15 +24,6 @@
 
 </div>
 
-<div align="center">
-
-| <a href="https://github.com/KaoryStudiosDiscord" target="_blank">**Kaory Studios Discord**</a> | <a href="https://github.com/KaoryAnimation" target="_blank">**Kaory Animation**</a> |
-| :---: | :---: | 
-| <img align='center' src='https://avatars.githubusercontent.com/u/92584765?s=200&amp;v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/92584765?s=200&amp;v=4' height='100px'> | 
-| <a href="https://github.com/KaoryStudiosDiscord" target="_blank">`Kaory Studios Discord` </a><a href="https://twitter.com/KaoryStudios" target="_blank">`Twitter` </a><a href="https://kaorystudiosdiscord.github.io/" target="_blank">`Website`</a> |  <a href="https://github.com/KaoryAnimation" target="_blank">`Kaory Animation` </a><a href="https://twitter.com/KaoryAnimation" target="_blank">`Twitter` </a><a href="https://kaoryanimation.github.io/" target="_blank">`Website`</a> | 
-
-</div>
-
 </hr>
 
 <h3 align="center">Spoken languages</h3>
@@ -59,7 +50,6 @@
   <img src='https://www.ujudebug.com/wp-content/uploads/2022/07/html-logo-transparent.png' height='100px'>
   <img src='https://www.ujudebug.com/wp-content/uploads/2022/07/css-logo-transparent.png' height='100px'>
   <img src='https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png' height='100px'>
-  <img src='https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png' height='100px'>
   <img src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Skills/redis-cube-red_white-rgb.png' height='100px'>
   <img src='https://raw.githubusercontent.com/HappyRogelio7/HappyRogelio7/main/Skills/blender_icon_1024x1024.png' height='100px'>
 
@@ -74,5 +64,5 @@
 
  
 
-- Links to social networks and projects: https://happyrogelio7.github.io/customsociallinksweb/
+- Links to social networks and projects: https://happyrogelio7.github.io/links/
 
